@@ -1,7 +1,7 @@
 # Hi, I'm Michael Akinbanjo 👋
 
 ## 🎓 About Me
-Final-year Software Engineering student at University of Salford, graduating June 2026 with a predicted 2:1. Passionate about building accessible, user-focused web applications that connect people globally.
+Final-year Software Engineering student at University of Salford, graduating July 2026. Passionate about building accessible, user-focused web applications that connect people globally.
 
 ## 💻 Tech Stack
 - **Languages:** Java, JavaScript, PHP, HTML/CSS, SQL, C++
